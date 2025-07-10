@@ -41,11 +41,6 @@ This helped me better understand QRadar and prepare for the certification.
 ## License
 This repository uses the **MIT License** (see [LICENSE](LICENSE)) so anyone can use, modify, or share these notes with credit to me.
 
-## How to Use
-- **Learners**: Read the `docs/` files, starting with `01-introduction.md`.
-- **Employers**: These notes show my QRadar expertise.
-- **Contributors**: Suggest changes via issues or pull requests.
-
 ## Acknowledgments
 - IBM Security Learning Academy for the courses.
 - xAI for Grok, which refined my notes.
