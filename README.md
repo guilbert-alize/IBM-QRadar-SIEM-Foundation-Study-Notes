@@ -26,6 +26,8 @@ My notes are based on these courses from the learning path:
    [docs/08-log-sources-dsms.md](docs/08-log-sources-dsms.md)
 9. **Use Cases**: Threat detection, insider threats, compliance, and cloud security.  
    [docs/09-use-cases.md](docs/09-use-cases.md)
+10. **Flows**: QRadar collects network activity information, or what is referred to as "flow records". 
+   [docs/10-flows.md](docs/10-flows.md)
 
 ## Using Grok
 I used **Grok** by xAI to:
