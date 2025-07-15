@@ -27,7 +27,9 @@ My notes are based on these courses from the learning path:
 9. **Use Cases**: Threat detection, insider threats, compliance, and cloud security.  
    [docs/09-use-cases.md](docs/09-use-cases.md)
 10. **Flows**: QRadar collects network activity information, or what is referred to as "flow records". 
-   [docs/10-flows.md](docs/10-flows.md)
+   [docs/10-flows.md](docs/10-flows.md) 
+11. **Offenses**: and its related subtopics (Data Retention and Data Obfuscation). 
+   [docs/11-analyzing-offenses.md](docs/11-analyzing-offenses.md)
 
 ## Using Grok
 I used **Grok** by xAI to:
