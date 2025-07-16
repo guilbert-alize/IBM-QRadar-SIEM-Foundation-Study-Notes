@@ -41,11 +41,11 @@ This helped me better understand QRadar and prepare for the certification.
 
 ## Certification Badge
 
-![IBM QRadar SIEM Foundation Badge](/images/IBM-Qradar-SIEM-Foundation-badge.png)
+<img src="/images/IBM-Qradar-SIEM-Foundation-badge.png" alt="IBM QRadar SIEM Foundation Badge" width="200"/>
 
-You can also view a general QRadar image for context:
 
-![QRadar SIEM Overview](/images/QRadar-SIEM.png)
+
+<img src="/images/QRadar-SIEM.png" alt="QRadar SIEM Overview" width="400"/>
 
 ## License
 This repository uses the **MIT License** (see [LICENSE](LICENSE)) so anyone can use, modify, or share these notes with credit to me.
