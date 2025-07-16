@@ -5,6 +5,9 @@ This repository contains my study notes for the **IBM QRadar SIEM Foundation cer
 
 This is a study resource for others and a portfolio project to show my QRadar knowledge.
 
+<img src="/images/IBM-Qradar-SIEM-Foundation-badge.png" alt="IBM QRadar SIEM Foundation Badge" width="200"/>
+
+
 ## Courses Covered
 My notes are based on these courses from the learning path:
 
@@ -40,10 +43,6 @@ I used **Grok** by xAI to:
 This helped me better understand QRadar and prepare for the certification.
 
 ## Certification Badge
-
-<img src="/images/IBM-Qradar-SIEM-Foundation-badge.png" alt="IBM QRadar SIEM Foundation Badge" width="200"/>
-
-
 
 <img src="/images/QRadar-SIEM.png" alt="QRadar SIEM Overview" width="400"/>
 
