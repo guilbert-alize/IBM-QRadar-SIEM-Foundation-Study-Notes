@@ -5,7 +5,7 @@ This repository contains my study notes for the **IBM QRadar SIEM Foundation cer
 
 This is a study resource for others and a portfolio project to show my QRadar knowledge.
 
-<img src="/images/IBM-Qradar-SIEM-Foundation-badge.png" alt="IBM QRadar SIEM Foundation Badge" width="200"/>
+<img src="/images/IBM-Qradar-SIEM-Foundation-badge.png" alt="IBM QRadar SIEM Foundation Badge" width="100"/>
 
 
 ## Courses Covered
